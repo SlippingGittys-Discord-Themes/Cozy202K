@@ -554,8 +554,7 @@
 .featuresHeader-4YwLcc { margin-left: 95px;}
 
 /* Paramètre voix & vidéo */
-.userSettingsVoice-iwdUCU { width: 1480px !important;}
-.container-3PXSwK { width: auto !important;}
+.userSettingsVoice-iwdUCU, .container-3PXSwK { width: auto !important;}
 
 /* MP */
 [id*="private-channels-"] { margin-left: 0px; max-width: unset;}
