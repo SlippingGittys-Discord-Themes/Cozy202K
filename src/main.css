@@ -48,7 +48,7 @@
     grid-template-columns: auto auto auto auto;
     visibility: visible;
 }
-#status-picker-game-activity, .item-1tOPte { grid-column: 1/5;}
+#status-picker-game-activity, #status-picker-custom-status { grid-column: 1/5;}
 [aria-label="Hide Game Activity"], .item-1tOPte > .statusItem-33LqPf { grid-template-columns: 100% 1fr;}
 #status-picker-game-activity > [aria-label="Hide Game Activity"] > svg, .item-1tOPte > .statusItem-33LqPf > div { padding: auto; margin: auto;}
 .animatorTop-2Y7x2r.scale-3iLZhb.didRender-33z1u8 { transition: opacity 0.15s linear 0s; }
@@ -561,6 +561,9 @@
 
 /* Menu serveur */
 .item-1tOPte { margin-right: 8px;}
+
+/* Clique droit */
+.menu-3sdvDG .layer-v9HyYc { margin-left: -8px;}
 
 /* -- >:( fuck borders -- */
 .messageGroupWrapper-o-Zw7G, .inputDefault-_djjkz, .container-1nZlH6, .cardPrimary-1Hv-to, .cardPrimaryOutline-29Ujqw, .codeRedemptionRedirect-1wVR4b,
