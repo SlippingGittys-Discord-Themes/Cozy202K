@@ -582,3 +582,6 @@
 /* PermisssionViewer support, thx _david_ */
 #permissions-modal-wrapper .header {background: var(--background-tertiary) !important;}
 #permissions-modal-wrapper .role-side,#permissions-modal-wrapper .perm-side {background: var(--background-secondary) !important;}
+
+/* Powercord update toast */
+.powercord-toast > .buttons > .lookOutlined-3sRXeN.colorGrey-2DXtkV { color: #fff;}
