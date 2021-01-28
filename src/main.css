@@ -137,7 +137,7 @@
 /* Boutons utilisateur */  
 .panels-j1Uci_ > .container-3baos1 > .flex-1xMQg5 {
     width: 100%;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: space-around;
 }
 .panels-j1Uci_ > .container-3baos1 { height: 62px; }
