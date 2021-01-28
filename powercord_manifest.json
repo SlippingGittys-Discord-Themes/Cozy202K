@@ -1,9 +1,9 @@
 {
-    "name": "Comfy theme",
-    "description": "A simple customisable comfy theme",
-    "version": "1.3.0",
-    "author": "Nyria#0001",
+    "name": "Discord-202k-Comfy",
+    "description": "202k and Comfy",
+    "version": "20210128.0.1",
+    "author": "Nyria#0001, Tamago-iku, SlippingGitty",
     "theme": "theme.scss",
     "consent": "false",
-    "license": "MIT"
+    "license": "GPL-3.0"
 }
