@@ -59,11 +59,16 @@
 .customText-tY5LJn { font-size: 15px; }
 .customEmojiPlaceholder-37iZ_j { background-image: url(https://i.ibb.co/hVKW6Xs/e.png);}
 
-#status-picker-online.focused-3afm-j { background-color: #43b5829f;}
-#status-picker-idle.focused-3afm-j { background-color: #faa81a96;}
-#status-picker-dnd.focused-3afm-j { background-color: #b83a3ca6;}
-#status-picker-invisible.focused-3afm-j { background-color: #747f8da4;}
-#status-picker-custom-status.focused-3afm-j { background-color: #ffcd4d69;}
+#status-picker-online { transition: 0.3s; }
+#status-picker-online.focused-3afm-j { background-color: #43b5829f; transition: 0.3s;}
+#status-picker-idle { transition: 0.3s; }
+#status-picker-idle.focused-3afm-j { background-color: #faa81a96; transition: 0.3s;}
+#status-picker-dnd { transition: 0.3s; }
+#status-picker-dnd.focused-3afm-j { background-color: #b83a3ca6; transition: 0.3s;}
+#status-picker-invisible { transition: 0.3s; }
+#status-picker-invisible.focused-3afm-j { background-color: #747f8da4; transition: 0.3s;}
+#status-picker-custom-status { transition: 0.3s; }
+#status-picker-custom-status.focused-3afm-j { background-color: #ffcd4d69; transition: 0.3s;}
 
 /* Status personnalisé */
 .footer-2gL1pp { background: var(--background-tertiary) !important;}
