@@ -284,14 +284,15 @@
 }
 
 /* - Popup agrandie d'un membre - */
-.header-QKLPzZ { flex-direction: column;}
+.header-QKLPzZ { flex-direction: column; padding-bottom: 0;}
+.allactivities-margin2 { margin-top: 0 !important;}
 .header-QKLPzZ > .avatar-3EQepX { margin-right: 0 !important;}
 .headerInfo-30uryT { padding: 15px 0 5px 0;}
 .headerInfo-30uryT > .nameTag-2IFDfL { justify-content: center; margin: 0 0 10px 0;}
 .profileBadges-2vWUYb { justify-content: center; margin: 0;}
 .profileBadgeWrapper-1rGSsp { margin: 0 5px 0 5px;}
 .additionalActionsIcon-1FoUlE { transform: rotate(90deg); margin: 10px 0 0 0;}
-.activity-1ythUs:not(.activityProfile-2bJRaP ) { padding-top: 0; text-align: center;}
+.activity-1ythUs:not(.activityProfile-2bJRaP ) { padding: 10px 0; text-align: center;}
 
 /* Meilleur avatar dans les popouts */
 .header-QKLPzZ > .wrapper-3t9DeA > .mask-1l8v16 > .pointerEvents-2zdfdO { display: var(--popout-status-icon); }
@@ -304,7 +305,7 @@
 
 /* Status */
 .root-SR8cQa > .topSectionSpotify-1lI0-P, .root-SR8cQa > .topSectionPlaying-1J5E4n, .root-SR8cQa > .topSectionStreaming-1Tpf5X, .root-SR8cQa > .topSectionXbox-3fWLjS { background: var(--background-tertiary);}
-.activityProfile-2bJRaP { border-radius: 5px; margin: 0 13px 13px 13px;}
+.activityProfile-2bJRaP { border-radius: 5px; margin: 13px;}
 .topSectionPlaying-1J5E4n > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #7289DA; box-shadow: 0px 4px 0px #46599c;}
 .topSectionSpotify-1lI0-P > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #1DB954;  box-shadow: 0px 4px 0px #11923e;}
 .topSectionStreaming-1Tpf5X > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #593695; box-shadow: 0px 4px 0px #47287c;}
