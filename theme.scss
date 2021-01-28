@@ -5,7 +5,7 @@
 */
 
 .theme-dark {
-    --background-tertiary: #101320;
+    --background-tertiary: #1C1B29;
     --background-secondary: #292841;
     --background-secondary-alt: #191f2e;
     --background-primary: #312F51;
@@ -15,7 +15,7 @@
     --background-modifier-active: #1a1e2e;
     --background-modifier-selected: #191f2e;
     --deprecated-card-bg: #12141f63;
-    --background-floating: #101320;
+    --background-floating: #1C1B29;
     --deprecated-quickswitcher-input-background:#101320;
     --elevation-low: none;
     --toast-background: #292841 !important;
@@ -181,14 +181,50 @@
 div.contents-18-Yxp {
   color: #BDBAEB;
 }
+
 /* Selected Channel */
 .modeSelected-346R90 .content-1x5b-n {
 	background-color: #423F71;
   border-radius: 50px;
 }
+
 /* SVG icons */
 .clickable-3rdHwn .icon-22AiRD {
     color: white;
 }
 svg.icon-3cZ1F_ {
   color: #BDBAEB;
+}
+svg.addButtonIcon-2CbG1X {
+    color: #BDBAEB;
+}
+
+/* Typing Chat area thing */
+.theme-dark {
+    --channeltextarea-background: #423F71;
+}
+
+/* Channel names */
+.emptyChannelIcon-cc932w {
+	background-color: #1C1B29;
+  color: #8D8BAE;
+}
+.header-3uLluP {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+/* Channel Desc */
+.description-1sDbzZ {
+    color: #fff;
+    font-weight: 100;
+    font-size: 20px;
+}
+div.contents-18-Yxp {
+    color: #6ADBC6;
+    font-weight: 100;
+    line-height: 30px;
+}
+.buttonIcon-3PejT5 {
+    color: #0000;
+}
