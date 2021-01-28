@@ -1,14 +1,14 @@
 /*
-////////////////////////////
-///Comfy Discord Pallette
-////////////////////////////
+////////////////////////////////////////
+///Comfy Discord - WITH COLOR CHANGES
+////////////////////////////////////////
 */
 
 .theme-dark {
     --background-tertiary: #101320;
-    --background-secondary: #1e2233;
+    --background-secondary: #292841;
     --background-secondary-alt: #191f2e;
-    --background-primary: #23283d;
+    --background-primary: #312F51;
     --channeltextarea-background: #191f2e;
     --background-accent: #6E85D3;
     --background-modifier-hover: #1c2030;
@@ -18,7 +18,7 @@
     --background-floating: #101320;
     --deprecated-quickswitcher-input-background:#101320;
     --elevation-low: none;
-    --toast-background: #1e2233 !important;
+    --toast-background: #292841 !important;
     --toast-header: #101320 !important;
     --toast-contents: #23283d !important;
 }
@@ -120,7 +120,7 @@
     -webkit-box-flex: 1;
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
-    color: #fff;
+    color: #BDBAEB;
 }
 
 .name-uJV0GL {
@@ -145,3 +145,50 @@
     color: #fff;
     font-weight: 500;
 }
+
+
+
+
+/*
+//////////////////////
+///ADDITIONS
+/////////////////////
+*/
+
+/* Font */
+* {
+    text-transform: none;
+}
+
+/* Search */
+.search-2oPWTC .searchBar-3dMhjb {
+  width: 80px;
+  transition-duration:600ms;
+}
+.searchBar-3dMhjb:hover {
+  width: 100px important;
+}
+.search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
+  width: 100px!important;
+}
+
+
+/* Channel name */
+.name-23GUGE {
+  	font-weight: bold;
+    color: #999B9F;
+}
+div.contents-18-Yxp {
+  color: #BDBAEB;
+}
+/* Selected Channel */
+.modeSelected-346R90 .content-1x5b-n {
+	background-color: #423F71;
+  border-radius: 50px;
+}
+/* SVG icons */
+.clickable-3rdHwn .icon-22AiRD {
+    color: white;
+}
+svg.icon-3cZ1F_ {
+  color: #BDBAEB;
