@@ -6,11 +6,15 @@
 
 Compliance with the GLPv3 license requires that I give a tutorial on how to install. While the theme isn't finished, I will comply merely so as to not break it's copyleft: 
 
-* Powercord
-`cd (powercord-dir)/src/Powercord/themes && git clone https://github.com/SlippingGitty/Comfy-Discord-202k-Theme`
-  * `(powercord dir)` is frequently C:/Users/USERNAME/powercord
+* Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
-
+* Download [Comfy202k.user.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Comfy202K.user.css) and either
+  * inject the CSS file with BeautifulDiscord
+  * place in your BetterDiscord themes folder
+* Powercord and Vizality users
+  * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Comfy202k/`
+* Goosemod users
+  * Download [Comfy202KTheme.js](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/Comfy202KTheme.js) and import the file from the "Local Modules" tab.
 ## Concept art used from the Discord 202K Repo
 https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
