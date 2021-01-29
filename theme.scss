@@ -1,257 +1,32 @@
-/*
-////////////////////////////////////////
-///Comfy Discord - WITH COLOR CHANGES
-////////////////////////////////////////
+/**
+ * @name Comfy202k
+ * @author SlippingGitty, NYRI4, Tamago-iku
+ * @version 20210128.01
+ * @description A Discord Theme based on LeoRicharte's concept art
+ * @source https://github.com/SlippingGitty/Comfy-Discord-202k-Theme
+ * @website https://slippinggitty.github.io/
 */
 
-.theme-dark {
-    --background-tertiary: #1C1B29;
-    --background-secondary: #292841;
-    --background-secondary-alt: #191f2e;
-    --background-primary: #312F51;
-    --channeltextarea-background: #191f2e;
-    --background-accent: #6E85D3;
-    --background-modifier-hover: #1c2030;
-    --background-modifier-active: #1a1e2e;
-    --background-modifier-selected: #191f2e;
-    --deprecated-card-bg: #12141f63;
-    --background-floating: #1C1B29;
-    --deprecated-quickswitcher-input-background:#101320;
-    --elevation-low: none;
-    --toast-background: #292841 !important;
-    --toast-header: #101320 !important;
-    --toast-contents: #23283d !important;
-}
-
-.theme-light {
-    --background-tertiary: #101320;
-    --background-secondary: #1e2233;
-    --background-secondary-alt: #191f2e;
-    --background-primary: #23283d;
-    --header-primary: #fff;
-    --header-secondary: #b1b5b9;
-    --text-normal: #8e9297;
-}
-
-/*
-////////////////////////
-///Tamago-iku 's 202k
-///////////////////////
+/*    
+ ██████╗ ██████╗ ███╗   ███╗███████╗██╗   ██╗██████╗  ██████╗ ██████╗ ██╗  ██╗
+██╔════╝██╔═══██╗████╗ ████║██╔════╝╚██╗ ██╔╝╚════██╗██╔═████╗╚════██╗██║ ██╔╝
+██║     ██║   ██║██╔████╔██║█████╗   ╚████╔╝  █████╔╝██║██╔██║ █████╔╝█████╔╝ 
+██║     ██║   ██║██║╚██╔╝██║██╔══╝    ╚██╔╝  ██╔═══╝ ████╔╝██║██╔═══╝ ██╔═██╗ 
+╚██████╗╚██████╔╝██║ ╚═╝ ██║██║        ██║   ███████╗╚██████╔╝███████╗██║  ██╗
+ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝        ╚═╝   ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+                                                                              
 */
 
-.channelTextArea-rNsIhG {
-    margin-bottom: 24px;
-    background-color: var(--background-primary);
-}
-
-.channelTextArea-2VhZ6z {
-    position: relative;
-    width: 100%;
-    text-indent: 0;
-    border-radius: 50px;
-}
-
-.sansAttachButton-td2irx {
-    padding-left: 16px;
-}
-
-.inner-MADQqc {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    position: relative;
-}
-
-.textAreaSlate-1ZzRVj {
-    padding: 0;
-}
-
-.textArea-12jD-V {
-    background-color: transparent;
-    resize: none;
-    border: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 1.375rem;
-    width: 100%;
-    height: 44px;
-    min-height: 44px;
-    color: var(--text-normal);
-    padding-left: 0;
-    padding-right: 10px;
-}
-
-.buttons-3JBrkn {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -ms-flex-direction: row;
-    flex-direction: row;
-    height: 44px;
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    margin-right: 4px;
-}
-
-.membersGroup-v9BXpm {
-    padding: 20px 8px 0 16px;
-    height: 50px;
-}
-
-.container-2ax-kl {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
-    text-transform: uppercase;
-    font-size: 12px;
-    line-height: 16px;
-    font-weight: 600;
-    -webkit-box-flex: 1;
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    color: #BDBAEB;
-}
-
-.name-uJV0GL {
-    font-size: 16px;
-    line-height: 20px;
-    font-weight: 500;
-    -webkit-box-flex: 0;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-    color: #fff;
-}
-
-.activity-2Gy-9S {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    font-size: 12px;
-    line-height: 16px;
-    color: #fff;
-    font-weight: 500;
-}
-
-
-
-
-/*
-//////////////////////
-///ADDITIONS
-/////////////////////
+/* 
+////////////////
+///IMPORT CSS
+///////////////
 */
-
-/* Font */
-* {
-    text-transform: none;
-}
-
-/* Search */
-.search-2oPWTC .searchBar-3dMhjb {
-  width: 80px;
-  transition-duration:600ms;
-}
-.searchBar-3dMhjb:hover {
-  width: 100px important;
-}
-.search-2oPWTC.open-6_Y_aH .searchBar-3dMhjb {
-  width: 100px!important;
-}
+@import url("https://slippinggitty.github.io/COMFY202K.css");
 
 
-/* Channel name */
-.name-23GUGE {
-  	font-weight: bold;
-    color: #999B9F;
-}
-div.contents-18-Yxp {
-  color: #BDBAEB;
-}
-
-/* Selected Channel */
-.modeSelected-346R90 .content-1x5b-n {
-	background-color: #423F71;
-  border-radius: 50px;
-}
-
-/* SVG icons */
-.clickable-3rdHwn .icon-22AiRD {
-    color: white;
-}
-svg.icon-3cZ1F_ {
-  color: #BDBAEB;
-}
-svg.addButtonIcon-2CbG1X {
-    color: #BDBAEB;
-}
-
-/* Typing Chat area thing */
-.theme-dark {
-    --channeltextarea-background: #423F71;
-}
-
-/* Channel names */
-.emptyChannelIcon-cc932w {
-	background-color: #1C1B29;
-  color: #8D8BAE;
-}
-.header-3uLluP {
-    font-size: 50px;
-    font-weight: 700;
-}
-
-/* Channel Desc */
-.description-1sDbzZ {
-    color: #fff;
-    font-weight: 100;
-    font-size: 20px;
-}
-div.contents-18-Yxp {
-    color: #6ADBC6;
-    font-weight: 100;
-}
-.buttonIcon-3PejT5 {
-    color: #0000;
-}
-
-/* Scrollbar */
-.theme-dark {
---scrollbar-auto-thumb: #1C1B29;
---scrollbar-auto-track: #292841;
-}
-
-/* Server icon buttons */
-.circleIconButton-jET_ig {
-		color: #6ADBC6;
-    background-color: var(--background-primary);
-}
-/* Channel Bar */
-.container-1r6BKw.themed-ANHk51 {
-	box-shadow: 1px 1px 1px #2B2946;
-}
-
-/* Friends list */
-.peopleList-3c4jOR {
-	background-color: #312F51;
-}
-
-/* Active now */
-.nowPlayingColumn-2sl4cE {
-    background-color: #292841;
-}
-.section-2gLsgF {
-	background-color: #292841;
-}
+/* 
+/////////////////////////////////////////
+//ADD YOUR OWN ADDITIONS BELLOW THIS LINE
+/////////////////////////////////////////
+*/
