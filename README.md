@@ -1,4 +1,4 @@
-# Comfy-Discord-202k-Theme
+# Comfy202K
 
  ![screenshot](https://i.imgur.com/9G4Ko85.png)
 
