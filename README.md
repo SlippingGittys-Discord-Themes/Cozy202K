@@ -14,7 +14,7 @@ Compliance with the GLPv3 license requires that I give a tutorial on how to inst
 * Powercord and Vizality users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Comfy202k/`
 * Goosemod users
-  * Download [Comfy202KTheme.js](https://raw.githubusercontent.com/SlippingGitty/Discord-2012-Theme/main/Comfy202KTheme.js) and import the file from the "Local Modules" tab.
+  * Download [Comfy202KTheme.js](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Comfy202KTheme.js) and import the file from the "Local Modules" tab.
 ## Concept art used from the Discord 202K Repo
 https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
