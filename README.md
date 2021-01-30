@@ -1,4 +1,4 @@
-# Comfy202K
+<h1 align="center">Comfy202K</h1>
 
  ![screenshot](https://i.imgur.com/5OqVLtz.png)
  
