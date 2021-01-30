@@ -1,6 +1,6 @@
 # Comfy202K
 
- ![screenshot](https://i.imgur.com/9G4Ko85.png)
+ ![screenshot](https://i.imgur.com/5OqVLtz.png)
 
 **THIS IS A FORK OF THE [COMFY THEME](https://github.com/NYRI4/Comfy-theme) AND [DISCORD-202K](https://github.com/Tamago-iku/Discord-202K-theme).** While major assets have been removed from Comfy down to literally just it's color pallete and some minor tweaks, the basis of this theme lies upon it's CSS file. Added on top of it is Discord-202K's CSS file, which I'm also tweaking minorly. The rest is just additions to fully realize LeoCharte's concept art. _PLEASE SUPPORT THE ORIGINAL THEME DEVS AND PAY THEIR GITHUB A VISIT!_
 
