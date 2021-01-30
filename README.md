@@ -2,7 +2,7 @@
 
  ![screenshot](https://i.imgur.com/5OqVLtz.png)
  
-Compliance with the GLPv3 license requires that I give a tutorial on how to install. While the theme isn't finished, I will comply merely so as to not break it's copyleft: 
+## How to install
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
