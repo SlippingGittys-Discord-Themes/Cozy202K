@@ -1,9 +1,7 @@
 # Comfy202K
 
  ![screenshot](https://i.imgur.com/5OqVLtz.png)
-
-**THIS IS A FORK OF THE [COMFY THEME](https://github.com/NYRI4/Comfy-theme) AND [DISCORD-202K](https://github.com/Tamago-iku/Discord-202K-theme).** While major assets have been removed from Comfy down to literally just it's color pallete and some minor tweaks, the basis of this theme lies upon it's CSS file. Added on top of it is Discord-202K's CSS file, which I'm also tweaking minorly. The rest is just additions to fully realize LeoCharte's concept art. _PLEASE SUPPORT THE ORIGINAL THEME DEVS AND PAY THEIR GITHUB A VISIT!_
-
+ 
 Compliance with the GLPv3 license requires that I give a tutorial on how to install. While the theme isn't finished, I will comply merely so as to not break it's copyleft: 
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
@@ -32,3 +30,7 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
   * LeoRicharte
 * Help from
   * [Pavol/Euphorianic](https://github.com/Euphorianic)
+
+## Disclaimers:
+
+**THIS IS A FORK OF THE [COMFY THEME](https://github.com/NYRI4/Comfy-theme) AND [DISCORD-202K](https://github.com/Tamago-iku/Discord-202K-theme).** Major assets have been removed from Comfy down to literally only keeping some of it's color pallete. Added on top of it is Discord-202K's CSS file, which has also been tweaked a bit. The rest is just additions to fully realize LeoCharte's concept art. _PLEASE SUPPORT THE ORIGINAL THEME DEVS AND PAY THEIR GITHUB A VISIT!_
