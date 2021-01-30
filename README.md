@@ -22,11 +22,13 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
 ## Credits
 * From  the Comfy theme repo, the following where credited:
-  * NYRI4 (ComfyDiscord creator)
+  * [NYRI4](https://github.com/NYRI4/) (ComfyDiscord creator)
   * Snapperito 
   * Harley
   * Tropical 
   * "and others peeps that I forgot for the help !"
 * From the Discord-202K-theme repo, the following where credited:
-  * Tamago-iku (202K creator)
+  * [Tamago-iku](https://github.com/Tamago-iku/) (202K creator)
   * LeoRicharte
+* Help from
+  * [Pavol/Euphorianic](https://github.com/Euphorianic)
