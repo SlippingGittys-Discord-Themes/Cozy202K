@@ -20,7 +20,7 @@ let obj = {
     name: 'SlideToUnlock',
     description: 'A Discord Theme based on LeoRichartes concept art',
   
-    author: ['SlippingGitty NYRI4 Tamago-iku'],
+    author: ['SlippingGitty NYRI4 Tamago-iku Pavol'],
   
     version
   };
