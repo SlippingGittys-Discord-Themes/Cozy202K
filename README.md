@@ -19,13 +19,13 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 (credit to [LeoRicharte](https://www.reddit.com/r/discordapp/comments/hjpa28/discord_with_new_design_based_on_updated_art_in/))
 
 ## Credits
-* From  the Comfy theme repo, the following where credited:
+* From the Comfy repo, the following were credited:
   * [NYRI4](https://github.com/NYRI4/) (Comfy creator)
   * Snapperito 
   * Harley
   * Tropical 
   * "and others peeps that I forgot for the help !"
-* From the Discord-202K-theme repo, the following where credited:
+* From the Discord-202K-theme repo, the following were credited:
   * [Tamago-iku](https://github.com/Tamago-iku/) (202K creator)
   * LeoRicharte
 * Help from
