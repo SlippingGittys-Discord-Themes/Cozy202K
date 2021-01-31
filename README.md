@@ -20,7 +20,7 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
 ## Credits
 * From  the Comfy theme repo, the following where credited:
-  * [NYRI4](https://github.com/NYRI4/) (ComfyDiscord creator)
+  * [NYRI4](https://github.com/NYRI4/) (Comfy creator)
   * Snapperito 
   * Harley
   * Tropical 
@@ -33,4 +33,4 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
 ## Disclaimers:
 
-**THIS IS A FORK OF THE [COMFY THEME](https://github.com/NYRI4/Comfy-theme) AND [DISCORD-202K](https://github.com/Tamago-iku/Discord-202K-theme).** Major assets have been removed from Comfy down to literally only keeping some of it's color pallete. Added on top of it is Discord-202K's CSS file, which has also been tweaked a bit. The rest is just additions to fully realize LeoCharte's concept art. _PLEASE SUPPORT THE ORIGINAL THEME DEVS AND PAY THEIR GITHUB A VISIT!_
+**THIS IS A FORK OF THE [COMFY](https://github.com/NYRI4/Comfy-theme) AND [DISCORD-202K](https://github.com/Tamago-iku/Discord-202K-theme).** Major assets have been removed from Comfy down to literally only keeping some of it's color pallete. Added on top of it is Discord-202K's CSS file, which has also been tweaked a bit. The rest is just additions to fully realize LeoCharte's concept art. _PLEASE SUPPORT THE ORIGINAL THEME DEVS AND PAY THEIR GITHUB A VISIT!_
