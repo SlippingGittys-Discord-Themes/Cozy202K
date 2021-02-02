@@ -1,4 +1,4 @@
-let version = '2021.01.29.01';
+let version = '2021.02.02.01';
 
 let el;
 
@@ -17,7 +17,7 @@ let obj = {
       el.remove();
     },
   
-    name: 'SlideToUnlock',
+    name: 'Cozy202K',
     description: 'A Discord Theme based on LeoRichartes concept art',
   
     author: ['SlippingGitty NYRI4 Tamago-iku Pavol'],
