@@ -3,7 +3,7 @@
     "description": "A Discord Theme based on LeoRicharte's concept art",
     "version": "20210202.0.1",
     "author": "Nyria#0001, Tamago-iku, SlippingGitty, Pavol",
-    "theme": "Cozy202K.user.css",
+    "theme": "Cozy202K.theme.css",
     "consent": "false",
     "license": "GPL-3.0"
 }
