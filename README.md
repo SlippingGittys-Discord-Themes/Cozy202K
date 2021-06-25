@@ -9,10 +9,10 @@
 * Download [Cozy202k.user.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202K.user.css) and either
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
-* Powercord and Vizality users
+* Powercord
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Cozy202k/`
 * Goosemod users
-  * Hopefully coming to the modules store soon!
+  * Download from the Module Store
 
 ## Concept art used from the Discord 202K Repo
 https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
