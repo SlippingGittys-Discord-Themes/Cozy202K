@@ -12,7 +12,8 @@
 * Powercord and Vizality users
   * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Cozy202k/`
 * Goosemod users
-  * Download [Cozy202KTheme.js](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202KTheme.js) and import the file from the "Local Modules" tab.
+  * Hopefully coming to the modules store soon!
+
 ## Concept art used from the Discord 202K Repo
 https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
