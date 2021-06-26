@@ -6,7 +6,7 @@
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
-* Download [Cozy202k.user.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202K.user.css) and either
+* Download [Cozy202k.theme.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202K.user.css) and either
   * inject the CSS file with BeautifulDiscord
   * place in your BetterDiscord themes folder
 * Powercord
