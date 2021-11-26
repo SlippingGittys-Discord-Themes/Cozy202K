@@ -2,24 +2,24 @@
 
  ![screenshot](https://i.imgur.com/MITe9oU.png)
  
-## How to install
+## How to use 📖
 
 * Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
 * Download [Cozy202k.theme.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202K.user.css) and either
-  * inject the CSS file with BeautifulDiscord
-  * place in your BetterDiscord themes folder
+  * Inject the CSS file with BeautifulDiscord
+  * Place in your BetterDiscord themes folder
 * Powercord
-  * open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Cozy202k/`
+  * Open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Cozy202k/`
 * Goosemod users
   * Download from the Module Store
 
-## Concept art used from the Discord 202K Repo
+## Concept art used from the Discord 202K Repo 📸
 https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 
 (credit to [LeoRicharte](https://www.reddit.com/r/discordapp/comments/hjpa28/discord_with_new_design_based_on_updated_art_in/))
 
-## Credits
+## Credits 📝
 * From the Comfy repo, the following were credited:
   * [NYRI4](https://github.com/NYRI4/) (Comfy creator)
   * Snapperito 
@@ -30,8 +30,8 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
   * [Tamago-iku](https://github.com/Tamago-iku/) (202K creator)
   * LeoRicharte
 * Help from
-  * [Pavol/Euphorianic](https://github.com/Euphorianic)
+  * [Loremly](https://github.com/loremly)
 
-## Disclaimers:
+## Extra info ℹ️
 
-**THIS IS A FORK OF THE [COMFY](https://github.com/NYRI4/Comfy-theme) AND [DISCORD-202K](https://github.com/Tamago-iku/Discord-202K-theme).** Major assets have been removed from Comfy down to literally only keeping some of it's color pallete. Added on top of it is Discord-202K's CSS file, which has also been tweaked a bit. The rest is just additions to fully realize LeoCharte's concept art. _PLEASE SUPPORT THE ORIGINAL THEME DEVS AND PAY THEIR GITHUB A VISIT!_
+Though this is a fork of [Comfy](https://github.com/NYRI4/Comfy-theme), this theme has little to nothing in common with it. I am simply just too lazy to detach it from it's parent. The idea behind this theme stems from another theme concept by Tamago-iku, which you can see [here](https://github.com/Tamago-iku/Discord-202K-theme). The rest of the additions are just to fully realize LeoCharte's concept art.
