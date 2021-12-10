@@ -37,4 +37,4 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 Though this is a fork of [Comfy](https://github.com/NYRI4/Comfy-theme), this theme has little to nothing in common with it. I am simply just too lazy to detach it from it's parent. The idea behind this theme stems from another theme concept by Tamago-iku, which you can see [here](https://github.com/Tamago-iku/Discord-202K-theme). The rest of the additions are just to fully realize LeoCharte's concept art.
 
 
-If you like this theme, you might also like it mobile! Check out GangsterFox's color scheme port of this to Aliucord! https://github.com/GangsterFox/AliuFox-themes
+If you like this theme, you might also like it on mobile! Check out GangsterFox's color scheme port of this to Aliucord! https://github.com/GangsterFox/AliuFox-themes
