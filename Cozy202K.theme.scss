@@ -1,7 +1,7 @@
 /**
  * @name Cozy202K
  * @author SlippingGitty, Pavol, NYRI4, Tamago-iku
- * @version 20210202.01
+ * @version 2022.01.25.01
  * @description A Discord Theme based on LeoRicharte's concept art
  * @source https://github.com/SlippingGitty/Comfy202k
  * @website https://slippinggitty.github.io/
@@ -24,6 +24,22 @@
 */
 @import url("https://slippinggitty.github.io/COMFY202K.css");
 
+/*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///LUCKFIRE - BUBBLE BAR - ROUNDED CHAT BAR - https://github.com/Discord-Theme-Addons/bubble-bar/blob/master/LICENSE
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+*/
+
+@import url('https://discord-theme-addons.github.io/bubble-bar/src/support/compiled.css');
+
+:root {
+    --channeltextarea-background: var(--background-secondary-alt);
+    
+    /* [ --BUTTON ACCENTS-- ] */
+    --button-brand: var(--brand-experiment);
+    --button-brand-hovered: var(--brand-experiment-560);
+    --button-brand-active: var(--brand-experiment-600);
+}
 
 /* 
 /////////////////////////////////////////
