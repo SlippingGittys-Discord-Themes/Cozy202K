@@ -40,3 +40,6 @@ Though this is a fork of [Comfy](https://github.com/NYRI4/Comfy-theme), this the
 
 
 If you like this theme, you might also like it on mobile! Check out GangsterFox's color scheme port of this to Aliucord! https://github.com/GangsterFox/AliuFox-themes
+
+___
+support server 💬: https://discord.gg/xWYMgbD28p
