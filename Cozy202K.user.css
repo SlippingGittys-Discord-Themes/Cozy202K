@@ -1,0 +1,48 @@
+@-moz-document domain("discord.com") {
+    /* ==UserStyle==
+    @name         Cozy202K
+    @description  A Discord Theme based on LeoRicharte's concept art
+    @author       Vozer
+    @namespace    https://github.com/SlippingGitty/Cozy202K/
+    @version      1.0.0
+    ==/UserStyle== */
+
+/*
+ ██████╗ ██████╗ ███████╗██╗   ██╗██████╗  ██████╗ ██████╗ ██╗  ██╗
+██╔════╝██╔═══██╗╚══███╔╝╚██╗ ██╔╝╚════██╗██╔═████╗╚════██╗██║ ██╔╝
+██║     ██║   ██║  ███╔╝  ╚████╔╝  █████╔╝██║██╔██║ █████╔╝█████╔╝ 
+██║     ██║   ██║ ███╔╝    ╚██╔╝  ██╔═══╝ ████╔╝██║██╔═══╝ ██╔═██╗ 
+╚██████╗╚██████╔╝███████╗   ██║   ███████╗╚██████╔╝███████╗██║  ██╗
+ ╚═════╝ ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
+ 
+*/
+
+/* 
+////////////////
+///IMPORT CSS
+///////////////
+*/
+@import url("https://slippinggitty.github.io/COMFY202K.css");
+
+/*
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///LUCKFIRE - BUBBLE BAR - ROUNDED CHAT BAR - https://github.com/Discord-Theme-Addons/bubble-bar/blob/master/LICENSE
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+*/
+
+@import url('https://discord-theme-addons.github.io/bubble-bar/src/support/compiled.css');
+
+:root {
+    --channeltextarea-background: var(--background-secondary-alt);
+    
+    /* [ --BUTTON ACCENTS-- ] */
+    --button-brand: var(--brand-experiment);
+    --button-brand-hovered: var(--brand-experiment-560);
+    --button-brand-active: var(--brand-experiment-600);
+}
+
+/* Bubble Bar Recolor */
+.channelTextArea-1VQBuV .textArea-2CLwUE, .channelTextArea-1VQBuV button {
+    background-color: #423f71;
+}
+}
