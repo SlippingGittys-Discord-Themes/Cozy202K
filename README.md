@@ -4,15 +4,18 @@
  
 ## How to use 📖
 
-* Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
+#### Learn how to use [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp). Browser users should look into [Stylus](https://github.com/openstyles/stylus).
 
-* Download [Cozy202k.theme.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202K.user.css) and either
+* BetterDiscord/BeautifulDiscord users can download [Cozy202k.theme.css](https://raw.githubusercontent.com/SlippingGitty/Comfy202k/main/Cozy202K.user.css) and either
   * Inject the CSS file with BeautifulDiscord
-  * Place in your BetterDiscord themes folder
-* Powercord
-  * Open a terminal in your themes folder and type `git clone https://github.com/SlippingGitty/Cozy202k/`
+  * Place in the BetterDiscord themes folder
+* Powercord users:
+  * Open a terminal in the themes folder and type `git clone https://github.com/SlippingGitty/Cozy202k/`
 * Goosemod users
-  * Download from the Module Store
+  * Available now on the the Module Store.
+* Stylus
+  * Head [here](https://github.com/SlippingGitty/Cozy202K/raw/main/Cozy202K.user.css) to install.
+
 
 ## Concept art used from the Discord 202K Repo 📸
 https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
