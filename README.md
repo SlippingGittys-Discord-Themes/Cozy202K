@@ -29,8 +29,10 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
   * Harley
   * Tropical 
   * "and others peeps that I forgot for the help !"
-* [Theme Warning](https://github.com/discord-theme-tools/theme-warnings) & [Bubble Bar](https://github.com/Discord-Theme-Addons/bubble-bar)
-  * [LuckFire](https://github.com/LuckFire)
+* [Theme Warning](https://github.com/discord-theme-tools/theme-warnings) 
+  * [LuckFire](https://github.com/LuckFire) 
+* [Bubble Bar](https://github.com/Discord-Theme-Addons/bubble-bar)
+  * [LuckFire](https://github.com/LuckFire) & [Loremly](https://github.com/loremly)
 * From the Discord-202K-theme repo, the following were credited:
   * [Tamago-iku](https://github.com/Tamago-iku/) (202K creator)
   * LeoRicharte
