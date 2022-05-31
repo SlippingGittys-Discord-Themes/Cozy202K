@@ -12,27 +12,40 @@
 ///IMPORT CSS
 ///////////////
 */
+
 @import url("https://slippinggitty.github.io/COMFY202K.css");
+
 
 /*
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///LUCKFIRE - BUBBLE BAR - ROUNDED CHAT BAR - https://github.com/Discord-Theme-Addons/bubble-bar/blob/master/LICENSE
+///LUCKFIRE - LOREMLY - BUBBLE BAR - ROUNDED CHAT BAR - https://github.com/discord-extensions/bubble-bar/blob/master/LICENSE
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 */
 
-@import url('https://discord-theme-addons.github.io/bubble-bar/src/support/compiled.css');
+@import url('https://discord-extensions.github.io/bubble-bar/src/source.css');
 
-:root {
-    --channeltextarea-background: var(--background-secondary-alt);
+    :root {
+        /* || Main */
+        --channeltextarea-rounding: 25px;
+        --channeltextarea-background: var(--background-secondary-alt);
+        --channeltextarea-border: var(--background-secondary);
     
-    /* [ --BUTTON ACCENTS-- ] */
-    --button-brand: var(--brand-experiment);
-    --button-brand-hovered: var(--brand-experiment-560);
-    --button-brand-active: var(--brand-experiment-600);
-}
+        /* || Default Buttons */
+        --channeltextarea-button-rounding: 50%;
+        --channeltextarea-button-icon: var(--interactive-normal);
+        --channeltextarea-button-background: var(--channeltextarea-background);
+        --channeltextarea-button-hover: var(--background-tertiary);
+    
+        /* || Accents */
+        --channeltextarea-caret: var(--brand-experiment-400);
+        --channeltextarea-sendbutton-icon: var(--brand-experiment-130);
+        --channeltextarea-sendbutton-background: var(--brand-experiment);
+        --channeltextarea-sendbutton-hover: var(--brand-experiment-460);
+        --channeltextarea-sendbutton-active: var(--brand-experiment-530);
+    }
 
 /* Bubble Bar Recolor */
-.channelTextArea-1VQBuV .textArea-2CLwUE, .channelTextArea-1VQBuV button {
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE, .base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .button-f2h6uQ {
     background-color: #423f71;
 }
 }
