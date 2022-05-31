@@ -1,7 +1,7 @@
 /**
  * @name Cozy202K
- * @author SlippingGitty, Pavol, NYRI4, Tamago-iku
- * @version 2022.01.25.01
+ * @author Vozer, Loremly, NYRI4, Tamago-iku
+ * @version 2022.05.30
  * @description A Discord Theme based on LeoRicharte's concept art
  * @source https://github.com/SlippingGitty/Comfy202k
  * @website https://slippinggitty.github.io/
@@ -17,34 +17,45 @@
  
 */
 
+/* Licence https://github.com/SlippingGitty/Comfy-Discord-202k-Theme/blob/main/LICENSE */
+
 /* 
 ////////////////
 ///IMPORT CSS
 ///////////////
 */
+
 @import url("https://slippinggitty.github.io/COMFY202K.css");
+
 
 /*
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-///LUCKFIRE - BUBBLE BAR - ROUNDED CHAT BAR - https://github.com/Discord-Theme-Addons/bubble-bar/blob/master/LICENSE
+///LUCKFIRE - LOREMLY - BUBBLE BAR - ROUNDED CHAT BAR - https://github.com/discord-extensions/bubble-bar/blob/master/LICENSE
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 */
 
-@import url('https://discord-theme-addons.github.io/bubble-bar/src/support/compiled.css');
+@import url('https://discord-extensions.github.io/bubble-bar/src/source.css');
 
-:root {
-    --channeltextarea-background: var(--background-secondary-alt);
+    :root {
+        /* || Main */
+        --channeltextarea-rounding: 25px;
+        --channeltextarea-background: var(--background-secondary-alt);
+        --channeltextarea-border: var(--background-secondary);
     
-    /* [ --BUTTON ACCENTS-- ] */
-    --button-brand: var(--brand-experiment);
-    --button-brand-hovered: var(--brand-experiment-560);
-    --button-brand-active: var(--brand-experiment-600);
-}
+        /* || Default Buttons */
+        --channeltextarea-button-rounding: 50%;
+        --channeltextarea-button-icon: var(--interactive-normal);
+        --channeltextarea-button-background: var(--channeltextarea-background);
+        --channeltextarea-button-hover: var(--background-tertiary);
+    
+        /* || Accents */
+        --channeltextarea-caret: var(--brand-experiment-400);
+        --channeltextarea-sendbutton-icon: var(--brand-experiment-130);
+        --channeltextarea-sendbutton-background: var(--brand-experiment);
+        --channeltextarea-sendbutton-hover: var(--brand-experiment-460);
+        --channeltextarea-sendbutton-active: var(--brand-experiment-530);
+    }
 
-/* Bubble Bar Recolor */
-.channelTextArea-1VQBuV .textArea-2CLwUE, .channelTextArea-1VQBuV button {
-    background-color: #423f71;
-}
 
 /* 
 /////////////////////////////////////////
