@@ -25,10 +25,7 @@ https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png
 ## Credits 📝
 * From the Comfy repo, the following were credited:
   * [NYRI4](https://github.com/NYRI4/) (Comfy creator)
-  * Snapperito 
-  * Harley
-  * Tropical 
-  * "and others peeps that I forgot for the help !"
+    * honestly, this repo doesnt even need to be credited, im using literally nothing from this theme at all, just some of the colors. i wish i could un-fork this repo. comfy is still good nonetheless. give the theme a look.
 * [Theme Warning](https://github.com/discord-theme-tools/theme-warnings) 
   * [LuckFire](https://github.com/LuckFire) 
 * [Bubble Bar](https://github.com/Discord-Theme-Addons/bubble-bar)
