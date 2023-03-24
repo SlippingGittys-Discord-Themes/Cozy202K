@@ -13,7 +13,7 @@
 ///////////////
 */
 
-@import url("https://slippinggitty.github.io/COMFY202K.css");
+@import url("https://slippinggittys-discord-Themes.github.io/Cozy202K/src/source.css");
 
 
 /*
@@ -22,30 +22,29 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 */
 
-@import url('https://discord-extensions.github.io/bubble-bar/src/source.css');
+:root {
+    /* || Main */
+    --channeltextarea-rounding: 25px;
+    --channeltextarea-background: var(--background-secondary-alt);
+    --channeltextarea-border: var(--background-secondary);
 
-    :root {
-        /* || Main */
-        --channeltextarea-rounding: 25px;
-        --channeltextarea-background: var(--background-secondary-alt);
-        --channeltextarea-border: var(--background-secondary);
-    
-        /* || Default Buttons */
-        --channeltextarea-button-rounding: 50%;
-        --channeltextarea-button-icon: var(--interactive-normal);
-        --channeltextarea-button-background: var(--channeltextarea-background);
-        --channeltextarea-button-hover: var(--background-tertiary);
-    
-        /* || Accents */
-        --channeltextarea-caret: var(--brand-experiment-400);
-        --channeltextarea-sendbutton-icon: var(--brand-experiment-130);
-        --channeltextarea-sendbutton-background: var(--brand-experiment);
-        --channeltextarea-sendbutton-hover: var(--brand-experiment-460);
-        --channeltextarea-sendbutton-active: var(--brand-experiment-530);
-    }
+    /* || Default Buttons */
+    --channeltextarea-button-rounding: 50%;
+    --channeltextarea-button-icon: #6BDBC6;
+    --channeltextarea-button-background: #423F72;
+    --channeltextarea-button-hover: #1b183e;
+
+    /* || Accents */
+    --channeltextarea-caret: var(--brand-experiment-400);
+    --channeltextarea-sendbutton-icon: var(--brand-experiment-130);
+    --channeltextarea-sendbutton-background: var(--brand-experiment);
+    --channeltextarea-sendbutton-hover: var(--brand-experiment-460);
+    --channeltextarea-sendbutton-active: var(--brand-experiment-530);
+}
 
 /* Bubble Bar Recolor */
-.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE, .base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .button-f2h6uQ {
+.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE {
     background-color: #423f71;
 }
+
 }
