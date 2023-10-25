@@ -41,34 +41,34 @@
 ///////////////////////
 */
 
-.channelTextArea-1FufC0 {
+.channelTextArea__2e60f {
     margin-bottom: 24px;
     background-color: var(--background-primary);
 }
 
-.channelTextArea-1VQBuV {
+.channelTextArea__56a36 {
     position: relative;
     width: 100%;
     text-indent: 0;
     border-radius: 50px;
 }
 
-.sansAttachButton-1ERHue {
+.sansAttachButton__996a4 {
     padding-left: 16px;
 }
 
-.inner-NQg18Y {
+.inner__9fd0b {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     position: relative;
 }
 
-.textAreaSlate-9-y-k2 {
+.textAreaSlate_e0e383 {
     padding: 0;
 }
 
-.textArea-2CLwUE {
+.textArea__74543 {
     background-color: transparent;
     resize: none;
     border: none;
@@ -88,7 +88,7 @@
     padding-right: 10px;
 }
 
-.buttons-uaqb-5 {
+.buttons_ce5b56 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -103,7 +103,7 @@
     margin-right: 4px;
 }
 
-.membersGroup-2eiWxl {
+.membersGroup__85843 {
     padding: 20px 8px 0 16px;
     height: 50px;
 }
@@ -124,7 +124,7 @@
     color: #BDBAEB;
 }
 
-.name-3Vmqxm {
+.name__16feb {
     font-size: 16px;
     line-height: 20px;
     font-weight: 500;
@@ -134,7 +134,7 @@
     color: #fff;
 }
 
-.activity-2EQDZv {
+.activity__3cbac {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -197,7 +197,7 @@
 }
 
 /* Channel name */
-.name-28HaxV {
+.name__8d1ec {
   	font-weight: bold;
     color: #999B9F;
 }
@@ -206,42 +206,42 @@ div.contents-18-Yxp {
 }
 
 /* Selected Channel */
-.modeSelected-3DmyhH .content-1gYQeQ {
+.modeSelected__487d6 .wrapper__7bcde {
 	background-color: #423F71;
   border-radius: 50px;
 }
 /* Hovered channel */
-.content-1gYQeQ:hover {
+.wrapper__7bcde:hover {
     background-color: transparent;
     border-radius: 50px;
 }
 
 /* SVG icons */
-.clickable-ZD7xvu .icon-2xnN2Y {
+.clickable_d23a1a .icon__4cb88 {
     color: white;
 }
-svg.icon-18rqoe {
+svg.icon_f50f05 {
   color: #BDBAEB;
 }
-svg.addButtonIcon-3rJeaD {
+svg.addButtonIcon_b776b3 {
     color: #BDBAEB;
 }
 
 /* Channel names */
-.emptyChannelIcon-1YdEz2 {
+.emptyChannelIcon__1a1ba {
 	background-color: #1C1B29;
   color: #8D8BAE;
 }
-.header-1dhDWV {
+.header__4080b {
     font-size: 50px;
     font-weight: 700;
 }
-.headerText-1qIDDT, .container-q97qHp {
+.headerText__051c0, .container-q97qHp {
     color: #aaa4ea;
 }
 
 /* Channel Desc */
-.description-22d6ux {
+.description__57d03 {
     color: #fff;
     font-weight: 100;
     font-size: 20px;
@@ -250,7 +250,7 @@ div.contents-18-Yxp {
     color: #6ADBC6;
     font-weight: 100;
 }
-.buttonIcon-1TxM6f {
+.buttonIcon__9d124 {
     color: #0000;
 }
 
@@ -267,54 +267,54 @@ div.contents-18-Yxp {
 }
 
 /* Channel Bar */
-.container-ZMc96U.themed-Hp1KC_ {
+.container__11d72.themed_b152d4 {
 	box-shadow: 1px 1px 1px #2B2946;
 }
 
 /* Friends list */
-.peopleList-2VBrVI {
+.peopleList__2379e {
 	background-color: #312F51;
 }
-.peopleColumn-1wMU14 {
+.peopleColumn__51df3 {
     background-color: #312F51;
 }
 
 /* Active now */
-.nowPlayingColumn-1eCBCN {
+.nowPlayingColumn_f5023f {
     background-color: #292841;
 }
-.section-3G9aLW {
+.section_efc22d {
 	background-color: #292841;
 }
 
 /* Removes that stupid rounded border on the server name */
-.platform-win .sidebar-1tnWFu {
+.platform-win .sidebar_ded4b5 {
     border-radius: 0px 0px 0px;
 }
 
 /* Extend member sidebar into its own area - Pavol */
-.toolbar-3_r2xA {
+.toolbar__88c63 {
   position:relative;
   right:245px;
 }
-.membersWrap-3NUR2t{
+.membersWrap__90226{
   position:relative;
   bottom:48px;
   z-index: 1;
   height:1400px;
 }
-.container-ZMc96U.themed-Hp1KC_ {
+.container__11d72.themed_b152d4 {
   z-index:1;
 }
 
 /* Make channel topic smaller */
-.topic-11NuQZ.expandable-3CaLeS {
+.topic__16ae3.expandable_ddf73d {
     margin-right: 400px;
 }
-.divider-q3P9HC {
+.divider_c09b64 {
   	display: none;
 }
-.nicknames-10Sg6e, .spacer-1F8G1H {
+.nicknames__7447d, .spacer__57b6a {
     margin-right: 280px;
 }
 
@@ -332,16 +332,16 @@ div.contents-18-Yxp {
 
 /* Media upload flyout */
 
-.uploadModal-2ie9O_ .inner-rBP-MS, .theme-dark .uploadModal-2ie9O_  {
+.uploadModal_eae2a0 .inner__7afe9, .theme-dark .uploadModal_eae2a0  {
 	background-color: #312F51;
 }
 
-.uploadModal-2ie9O_ .footer-VCsJQY.hasSpoilers-33hwf_ {
+.uploadModal_eae2a0 .footer_ceda43.hasSpoilers__49ee6 {
     background-color: #423F71;
 }
 
 /* Select Friends Flyout*/
-.header-1zd7se, .footer-C9oLp9, .noResults-1ceiMB, .scroller-1Kbkqa  {
+.header-1zd7se, .footer__274e8, .noResults_c69767, .scroller__5c5df  {
 	background-color: #312F51;
 }
 
@@ -370,16 +370,16 @@ div.contents-18-Yxp {
 }
 
 /* Auto complete */
-.base-2v-uc0, .autocompleteInner-y1mjDl {
+.base__76a71, .autocompleteInner_a0e6a1 {
 	background-color: #312F51;
 }
-.base-2v-uc0:hover {
+.base__76a71:hover {
 	background-color: #292841;
 }
-div.base-2v-uc0.selectable-1MM9tu.selected-3H3-RC {
+div.base__76a71.selectable-1MM9tu.selected-3H3-RC {
   	background-color: #292841;
 }
-.categoryHeader-OpJ1Ly {
+.categoryHeader_f97a5f {
 	background-color: #312F51;
 }
 .list-obNEuP {
@@ -387,13 +387,13 @@ div.base-2v-uc0.selectable-1MM9tu.selected-3H3-RC {
 }
 
 /* Bubble Bar Recolor */
-.base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .textArea-2CLwUE, .base-2jDfDU .channelTextArea-1VQBuV .inner-NQg18Y .button-f2h6uQ {
+.base__3e6af .channelTextArea__56a36 .inner__9fd0b .textArea__74543, .base__3e6af .channelTextArea__56a36 .inner__9fd0b .button_afdfd9 {
     background-color: #423f71;
 }
-.attachButtonPlus-3IYelE {
+.attachButtonPlus_bf89ca {
     fill: #6adbc6 !important;
 }
-.InvisibleTyping-typingButton-invisibleTypingButton svg,  .buttonWrapper-3YFQGJ {
+.InvisibleTyping-typingButton-invisibleTypingButton svg,  .buttonWrapper__69593 {
     color: #bdbaeb !important;
 }
 
@@ -405,7 +405,7 @@ div.base-2v-uc0.selectable-1MM9tu.selected-3H3-RC {
 .powercord-product-header h4 {
   font-size: 16px;
 }
-.powercord-product .divider-3LgWDL {
+.powercord-product .divider__09722 {
   display: none;
 }
 .description, .powercord-product .metadata, .powercord-product-permissions, .powercord-product-footer {
